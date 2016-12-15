@@ -3,6 +3,7 @@
 [intro]: https://blog.recast.ai/wp-content/uploads/2016/12/illu-3.png "intro"
 ![alt text][intro]
 
+* You can find all the step to build this boat on this (article)[https://blog.recast.ai/rpg-bot-star-wars/]
 ## Create your bot on Bot Connector
 
 * Bot Connector allows you to connect your bot to multiple channels at the same time with only one API integration.
