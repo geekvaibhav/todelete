@@ -66,6 +66,7 @@ ngrok http 5000
 ## Clone your bot 
 ```bash 
 git clone https://github.com/RecastAI/starwarsbot
+```
 ## Run your bot
 
 * Go back to your bash and run your bot 🙂
