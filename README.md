@@ -4,6 +4,21 @@
 ![alt text][intro]
 
 * You can find all the step to build this boat on this [article](https://blog.recast.ai/rpg-bot-star-wars/)
+
+
+## Set up your Recast.AI account
+
+##### Create your bot
+
+* Log in to your Recast.AI account
+* Create a new bot
+
+##### Get your token
+
+* In your profile, click your bot
+* In the tab-menu, click on the the little screw
+* Here is the `request access token` you will need to configure your bot!
+
 ## Create your bot on Bot Connector
 
 * Bot Connector allows you to connect your bot to multiple channels at the same time with only one API integration.
@@ -48,7 +63,9 @@ ngrok http 5000
 
 * You now have a bot connected to Facebook!
 
-
+## Clone your bot 
+```bash 
+git clone https://github.com/RecastAI/starwarsbot
 ## Run your bot
 
 * Go back to your bash and run your bot 🙂
